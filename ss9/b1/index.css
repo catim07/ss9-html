@@ -1,0 +1,17 @@
+.khungngoai{
+    width: 400px;
+    height: 300px; 
+    border: 2px solid; 
+    background-color: rgb(217, 215, 215);
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+.khungtrong{
+    width: 100px; 
+    height: 100px; 
+    background-color: blue; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+}

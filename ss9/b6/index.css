@@ -1,0 +1,39 @@
+.container{
+    width: 700px;
+    display: flex;
+    gap: 10px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 60%;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 40%;
+    gap: 10px;
+}
+.boxbig{
+    height: 60px;
+    background-color: rgb(31, 45, 61);
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.row{
+    display: flex;
+    gap: 10px;
+}
+.box {
+    width: 50%;
+    height: 35px;
+    background-color: rgb(31, 45, 61);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

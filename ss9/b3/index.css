@@ -1,0 +1,25 @@
+.container{
+    width: 700px;
+    height: 200px;
+    border: 2px solid;
+    display: flex;
+    align-content: space-evenly;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.box{
+    width: 150px;
+    height: 80px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxbig{
+    width: 320px;
+    height: 80px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
